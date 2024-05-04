@@ -1,0 +1,27 @@
+body {
+	background-color: aliceblue !important;
+}
+.header {
+	background-image: linear-gradient(0, #3b9315, #2cc4d3 );
+	height: 150px;
+	padding-top: 30px !important; 
+	padding-bottom: 30px !important; 
+}
+
+.header_logo-img{
+    width: 130px;
+}
+
+.header_banner {
+	text-align: center;
+}
+.header_banner-img {
+    width: 60%;
+    height: 90px;
+    border-radius: 50px;
+}
+
+.row 
+{
+	margin-top: 10px;
+}
